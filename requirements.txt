@@ -2,3 +2,4 @@ Flask
 Flask-RESTful
 requests
 uwsgi
+python-dotenv
